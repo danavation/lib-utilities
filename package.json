@@ -1,0 +1,19 @@
+{
+  "name": "lib-utilities",
+  "version": "0.0.1",
+  "description": "lib-utilities",
+  "repository": "https://github.com/danavation/lib-utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "clin@danavation.com",
+  "license": "ISC",
+  "dependencies": {
+    "blake2b": "^2.1.3",
+    "canvas-dither": "^1.0.1",
+    "jsbarcode": "^3.11.3",
+    "tweetnacl": "^1.0.3",
+    "tweetnacl-util": "^0.15.1"
+  }
+}
